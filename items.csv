@@ -38,6 +38,7 @@ coarseland,3,1
 coarseearth,3,1
 podzol,3,2
 cobblestone,4,0
+pathstone,4,0
 cstone,4,0
 cobble,4,0
 wood,5,0
@@ -368,6 +369,7 @@ coalo,16,0
 ocoal,16,0
 core,16,0
 tree,17,0
+hardwood,17,0
 log,17,0
 trunk,17,0
 oak,17,0
